@@ -1,0 +1,15 @@
+$PBExportHeader$p_dynamicexescripts_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:E:\Jiaol\pb\dynamicexescripts.exe,,0,1,1
+CMP:0,0,0,2,0,0
+COM:Sybase
+DES:Sybase, Inc. Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVS:1,0,0,1
+PVN:1,0,0,1
+FVS:1,0,0,1
+FVN:1,0,0,1
+PBD:E:\Jiaol\pb\dynamicexescripts.pbl,,1
+OBJ:E:\Jiaol\pb\dynamicexescripts.pbl,nvo_application,u
+OBJ:E:\Jiaol\pb\dynamicexescripts.pbl,dynamicexescripts,a
